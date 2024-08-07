@@ -140,8 +140,8 @@ td{
     main img{
         height: 400px;
     }
-    .logo{
-        margin: 0px;
+    main{
+        margin: 0;
     }
     .jornadas{
         padding-left: 20px ;
