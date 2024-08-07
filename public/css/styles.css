@@ -162,5 +162,8 @@ td{
     main img{
         height: 200px;
     }
+     .jornadas{
+        padding-left: 0;
+    }
 
 }
