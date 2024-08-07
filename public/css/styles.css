@@ -127,6 +127,9 @@ td{
     nav{
         flex-direction: column;
     }
+    main{
+        margin: 0;
+    }
     main img{
         height: 400px;
     }
