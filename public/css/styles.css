@@ -151,7 +151,7 @@ td{
         flex-direction: column;
     }
     .logo{
-        margin: 20px;
+        margin: 0px;
     }
     nav{
         flex-direction: column;
