@@ -134,3 +134,22 @@ td{
         height: 400px;
     }
 }
+@media (max-width:400px){
+
+    .main-hearder{
+        flex-direction: column;
+    }
+    .logo{
+        margin: 20px;
+    }
+    nav{
+        flex-direction: column;
+    }
+    main{
+        margin: 0;
+    }
+    main img{
+        height: 200px;
+    }
+
+}
